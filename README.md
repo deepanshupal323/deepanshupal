@@ -1,4 +1,4 @@
 # deepanshupal
 this is my first Repository.
 <br>
-Author - Deepanshu pal
+Author - Deepanshu kumar
